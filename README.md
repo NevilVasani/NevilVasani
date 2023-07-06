@@ -8,9 +8,10 @@
 
 | Semester   | Topics                                                             |
 | ----------------- | ------------------------------------------------------------------ |
-| Semester-1 |[C-Language] <br/>[Web-Designing] ⇒ [HTML]  - [CSS] - [Bootstrap] |
-| Semester-2 |[Java]<br/>[DBMS_i]|
-| Semester-3 |[DBMS_ii]<br/>[Data_Structure]<br/>[Web-Technology] ⇒ [JavaScript] - [React_js] - [Node_js] - [Angular]  |
-| Semester-4 |[Flutter]<br/>[Design_and_Analysis_of_Algorithm]<br/>[Operating_System]|
+| Semester-1 |[C-Language] |
+| Semester-2 |[C++-Language]<br/>[DBMS_i]|
+| Semester-3 |[DBMS_ii]<br/>[Data_Structure]<br/>[Python]  |
+| Semester-4 |[Java]<br/>[Analysis_of_Design_and_Algorithm]<br/>[Operating_System]|
+| Semester-5 |[Advance-Java]<br/>[Web_Technology]<br/>[Linux_Administration]<br/>[Computer_Organization_And_Architecture]|
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
