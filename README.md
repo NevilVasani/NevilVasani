@@ -10,7 +10,7 @@
 | ----------------- | ------------------------------------------------------------------ |
 | Semester-1 |[C-Language] <br/>[Web-Designing] ⇒ [HTML]  - [CSS] - [Bootstrap] |
 | Semester-2 |[Java]<br/>[DBMS_i]|
-| Semester-3 |[DBMS_ii](https://github.com/khuntkaran/semester-3/tree/main/DBMS)<br/>[Data_Structure]<br/>[Web-Technology] ⇒ [JavaScript] - [React_js] - [Node_js] - [Angular]  |
+| Semester-3 |[DBMS_ii]<br/>[Data_Structure]<br/>[Web-Technology] ⇒ [JavaScript] - [React_js] - [Node_js] - [Angular]  |
 | Semester-4 |[Flutter]<br/>[Design_and_Analysis_of_Algorithm]<br/>[Operating_System]|
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
